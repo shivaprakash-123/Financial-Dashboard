@@ -5,3 +5,4 @@ datetime
 monteCarlo 
 matplotlib 
 numpy
+pandas_datareader
